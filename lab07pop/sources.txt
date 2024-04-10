@@ -1,0 +1,13 @@
+src\main\java\module-info.java
+src\main\java\pl\edu\pwr\kszydlak\MyPanel.java
+src\main\java\pl\edu\pwr\kszydlak\Client\ClientApp.java
+src\main\java\pl\edu\pwr\kszydlak\Client\ClientFrame.java
+src\main\java\pl\edu\pwr\kszydlak\Client\ClientFrame2.java
+src\main\java\pl\edu\pwr\kszydlak\Client\ClientImpl.java
+src\main\java\pl\edu\pwr\kszydlak\Client\OrderFrame.java
+src\main\java\pl\edu\pwr\kszydlak\Seller\SellerApp.java
+src\main\java\pl\edu\pwr\kszydlak\Seller\SellerFrame.java
+src\main\java\pl\edu\pwr\kszydlak\Seller\ViewOrderFrame.java
+src\main\java\pl\edu\pwr\kszydlak\Shop\ServerFrame.java
+src\main\java\pl\edu\pwr\kszydlak\Shop\ServerImpl.java
+src\main\java\pl\edu\pwr\kszydlak\Shop\ShopApp.java
